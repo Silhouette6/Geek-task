@@ -13,4 +13,4 @@ for i in range(0,step):
     x=x+dx
     xn=str(x)
     fx=fx-fx*dx
-    print('当x='+'{0:.4}'.format(xn)+'时，y='+'{0:.3}'.format(fx))
+    print('当x='+'{0:.5}'.format(xn)+'时，y='+'{0:.4}'.format(fx))
