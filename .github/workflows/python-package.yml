@@ -40,4 +40,4 @@ jobs:
           ls
     - name: Test
       run: |
-       python Geek task1.py
+       python task1.py
