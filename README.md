@@ -11,3 +11,8 @@ task1.py   Pycharm运行截图
 
 
 ![avatar](image.png)
+
+
+task2.py      Github Action运行截图
+
+![avatar](image2.png)
